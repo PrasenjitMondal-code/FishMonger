@@ -568,7 +568,7 @@ a:focus {
 
 .page-header a::after {
     position: absolute;
-    content: "/";
+   
     width: 8px;
     height: 8px;
     top: -2px;
